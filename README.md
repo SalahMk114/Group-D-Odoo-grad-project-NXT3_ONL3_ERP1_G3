@@ -2,8 +2,7 @@
 </body>
 </html>
 
-NXT3_ONL3_ERP1_G3
-Group D Odoo Grad project 
+NXT3_ONL3_ERP1_G3 | Group D Odoo Grad project 
 -
 Team members
 
