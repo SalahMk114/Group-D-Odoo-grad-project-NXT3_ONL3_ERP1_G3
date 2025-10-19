@@ -7,9 +7,9 @@ Group D Odoo Grad project
 -
 Team members
 
-SALAH ELDIN MOHAMED KHAIRY AHMED MONIR | 1015178339 | salahmk114@gmail.com
-Ahmed Ramadan Ahmed Ahmed | 1144471803 | aboalhaz3@gmail.com
-Amira Hassan Eid Abdelkawy | 1113700307 | amiraabdelkawi42@gmail.com
+SALAH ELDIN MOHAMED KHAIRY AHMED MONIR . salahmk114@gmail.com
+Ahmed Ramadan Ahmed Ahmed . aboalhaz3@gmail.com
+Amira Hassan Eid Abdelkawy . amiraabdelkawi42@gmail.com
 
 </body>
 </html>
